@@ -3,8 +3,7 @@
 </div>
     
 <p><br><br></p>
-<h1 align="center">Hi Fellas 👋</h1>
-<h3 align="center">I'm Umer Farooq :relaxed: </h3>
+<h1 align="center">Hi Fellas 👋, I'm Umer Farooq :relaxed: </h1>
 <h3 align="center">A passionate bioinformatician working with genome sequencing data and analysis</h3>
 <h3 align="center">Thank You for taking the time to view my GitHub Profile :hugs: </h3>
 
