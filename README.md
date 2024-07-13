@@ -1,4 +1,6 @@
-![banner9](https://github.com/user-attachments/assets/8e1e4286-db74-42fd-b1f0-39251349cf2b)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8e1e4286-db74-42fd-b1f0-39251349cf2b" alt="banner9">
+</div>
 
 <h1 align="center">Hi Fellas 👋</h1>
 <h2 align="center">I'm Umer Farooq :relaxed:
