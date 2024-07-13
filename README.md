@@ -2,10 +2,11 @@
   <img src="https://github.com/user-attachments/assets/8e1e4286-db74-42fd-b1f0-39251349cf2b" alt="banner9" style="height: 500px; width: auto;>
 </div>
 
+
 <h1 align="center">Hi Fellas 👋</h1>
-<h2 align="center">I'm Umer Farooq :relaxed:
+<h2 align="center">I'm Umer Farooq :relaxed: </h2>
 <h3 align="center">A passionate bioinformatician working with genome sequencing data and analysis</h3>
-<h3 align="center">Thank You for taking the time to view my GitHub Profile :hugs:
+<h3 align="center">Thank You for taking the time to view my GitHub Profile :hugs: </h3>
 
 - 🔭 I’m currently working on **Fusarium oxysporum genomics**
 
