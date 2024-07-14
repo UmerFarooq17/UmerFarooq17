@@ -17,13 +17,14 @@ Here are some ideas to get you started:
   <img src="https://github.com/user-attachments/assets/8e1e4286-db74-42fd-b1f0-39251349cf2b" alt="banner9" style="height: 500px; width: auto;">
 </div>
 
-### About Me :
+
 <h1 align="center">Hi Fellas 👋, I'm Umer Farooq :relaxed: </h1>
 <h3 align="center">A passionate bioinformatician <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Germany, working with genome sequencing data and analysis</h3>
 <h3 align="center">Thank You for taking the time to view my GitHub Profile :hugs: </h3>
 
+### About Me :
 - :man_scientist: My educational background is **Bioinformatics**
-- 🔭 I have professional experience in **_Genome Sequencing Data Analysis_**
+- :telescope: I have professional experience in **_Genome Sequencing Data Analysis_**
 - :man_technologist: Love to work in **Shell, Python and R** languages
 - :computer: Proviously worked on Agricultural crops and animal genomes :water_buffalo: :cow: :goat: :sheep:
 - :computer: Now working with **_Fusarium oxysporum_** genomes.
