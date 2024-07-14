@@ -1,5 +1,5 @@
 <!--
-**AammarTufail/AammarTufail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**UmerFarooq17/UmerFarooq17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,12 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div id="header" align="center">
-<h1 align="center">Hi Fellas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Umer Farooq :relaxed: </h1>
+  <h1 align="center">Hi Fellas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Umer Farooq :relaxed: </h1>
 </div>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8e1e4286-db74-42fd-b1f0-39251349cf2b" alt="banner9" style="height: 500px; width: auto;">
+  <img src="https://github.com/user-attachments/assets/8e1e4286-db74-42fd-b1f0-39251349cf2b" width="600" height="300">
 </div>
+
 <h3 align="center">A passionate bioinformatician <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Germany, working with genome sequencing data and analysis</h3>
 <h3 align="center">Thank You for taking the time to view my GitHub Profile :hugs: </h3>
 
