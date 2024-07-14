@@ -9,7 +9,9 @@
 
 - :man_scientist: My educational background is **Bioinformatics**
 - 🔭 I have professional experience in **_Genome Sequencing Data Analysis_**
-- 🔭 :man_technologist: Love to work in **Shell, Python and R** languages.
+- :man_technologist: Love to work in **Shell, Python and R** languages
+- :computer: Proviously worked on Agricultural crops and animal genomes :water_buffalo: :cow: :goat: :sheep:
+- :computer: Now working with **_Fusarium oxysporum_** genomes.
 
 
 
