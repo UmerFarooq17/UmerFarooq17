@@ -16,12 +16,14 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <h1 align="center">Hi Fellas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Umer Farooq :relaxed: </h1>
 </div>
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/8e1e4286-db74-42fd-b1f0-39251349cf2b" width="600" height="300">
 </div>
-
-<h3 align="center">A passionate bioinformatician <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Germany, working with genome sequencing data and analysis</h3>
-<h3 align="center">Thank You for taking the time to view my GitHub Profile :hugs: </h3>
+<div align="center">
+  <h3>A passionate bioinformatician <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Germany, working with genome sequencing data and analysis</h3>
+  <h3>Thank You for taking the time to view my GitHub Profile :hugs: </h3>
+</div>
 
 ### About Me :
 - :man_scientist: My educational background is **Bioinformatics**
