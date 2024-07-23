@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8e1e4286-db74-42fd-b1f0-39251349cf2b" width="600" height="300">
+  <img src="https://github.com/user-attachments/assets/8e1e4286-db74-42fd-b1f0-39251349cf2b" width="600" height="200">
 </div>
 <div align="center">
   <h3>A passionate bioinformatician <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Germany, working with genome sequencing data and analysis</h3>
